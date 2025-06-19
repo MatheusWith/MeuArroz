@@ -1,4 +1,4 @@
-# MeuArroz i3WM
+# MeuArroz (com feião) i3WM
 Personalização minimalista com i3, Polybar, Rofi
 
 
